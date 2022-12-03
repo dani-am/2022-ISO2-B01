@@ -23,8 +23,5 @@ public class Peticion_Access_Review {
 		
 	}
 
-	public void getReview() {
-		// TODO - implement Peticion_Access_Review.getReview
-		
-	}
+	
 }
