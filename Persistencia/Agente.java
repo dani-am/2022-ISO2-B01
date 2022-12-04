@@ -30,7 +30,7 @@ public class Agente {
 	 * 
 	 * @param SQL
 	 */
-	public int insert(string SQL) {
+	public int insert(String SQL) {
 		// TODO - implement Agente.insert
 		
 	}
@@ -39,7 +39,7 @@ public class Agente {
 	 * 
 	 * @param SQL
 	 */
-	public int delete(string SQL) {
+	public int delete(String SQL) {
 		// TODO - implement Agente.delete
 		
 	}
@@ -48,7 +48,7 @@ public class Agente {
 	 * 
 	 * @param SQL
 	 */
-	public int update(string SQL) {
+	public int update(String SQL) {
 		// TODO - implement Agente.update
 		
 	}
@@ -57,7 +57,7 @@ public class Agente {
 	 * 
 	 * @param SQL
 	 */
-	public Vector<Vector<Object>> select(string SQL) {
+	public Vector<Vector<Object>> select(String SQL) {
 		// TODO - implement Agente.select
 		
 	}
