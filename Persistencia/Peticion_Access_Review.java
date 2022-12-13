@@ -1,16 +1,16 @@
 package Dominio;
 
-public class Peticion_Access_Review {
+public class Peticion_Access_Comment {
 
 	private String review;
 
-	public Peticion_Access_Review() {
-		// TODO - implement Peticion_Access_Review.Peticion_Access_Review
+	public Peticion_Access_Comment() {
+		// TODO - implement Peticion_Access_Comment.Peticion_Access_Comment
 		
 	}
 
-	private void getReview() {
-		// TODO - implement Peticion_Access_Review.getReview
+	private void getComment() {
+		// TODO - implement Peticion_Access_Comment.getComment
 		
 	}
 
@@ -19,7 +19,7 @@ public class Peticion_Access_Review {
 	 * @param login
 	 */
 	public String setAttribute(int login) {
-		// TODO - implement Peticion_Access_Review.setAttribute
+		// TODO - implement Peticion_Access_Comment.setAttribute
 		
 	}
 
