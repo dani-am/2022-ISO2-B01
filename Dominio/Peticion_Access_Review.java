@@ -2,18 +2,24 @@ package Dominio;
 
 public class Peticion_Access_Review {
 
-	public boolean añadirDatos() {
-		// TODO - implement Gestionar_Datos_peregrinos.añadirDatos
+	private String review;
+
+	public Peticion_Access_Review() {
+		// TODO - implement Peticion_Access_Review.Peticion_Access_Review
 		
 	}
 
-	public boolean modificarDatos() {
-		// TODO - implement Gestionar_Datos_peregrinos.modificarDatos
+	private void getReview() {
+		// TODO - implement Peticion_Access_Review.getReview
 		
 	}
 
-	public boolean eliminarDatos() {
-		// TODO - implement Gestionar_Datos_peregrinos.eliminarDatos
-		
+	/**
+	 * 
+	 * @param login
+	 */
+	public String setAttribute(int login) {
+		// TODO - implement Peticion_Access_Review.setAttribute	
 	}
+}
 
