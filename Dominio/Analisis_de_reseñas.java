@@ -1,6 +1,6 @@
 package Dominio;
 
-public class Analisis_de_reseñas {
+public class Aniadir_comentario{
 	
 	private double Nota;
 	private String Reseña;
