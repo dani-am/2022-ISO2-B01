@@ -1,4 +1,4 @@
-package Diagrama_classs_ofertas.Persistencia;
+package Persistencia;
 
 public class Agente {
 
@@ -8,22 +8,22 @@ public class Agente {
 
 	private Agente() {
 		// TODO - implement Agente.Agente
-		throw new UnsupportedOperationException();
+		
 	}
 
 	public Agente getAgente() {
 		// TODO - implement Agente.getAgente
-		throw new UnsupportedOperationException();
+		
 	}
 
 	public void conectar() {
 		// TODO - implement Agente.conectar
-		throw new UnsupportedOperationException();
+		
 	}
 
 	public void desconectar() {
 		// TODO - implement Agente.desconectar
-		throw new UnsupportedOperationException();
+		
 	}
 
 	/**
@@ -32,7 +32,7 @@ public class Agente {
 	 */
 	public int insert(string SQL) {
 		// TODO - implement Agente.insert
-		throw new UnsupportedOperationException();
+		
 	}
 
 	/**
@@ -41,7 +41,7 @@ public class Agente {
 	 */
 	public int delete(string SQL) {
 		// TODO - implement Agente.delete
-		throw new UnsupportedOperationException();
+		
 	}
 
 	/**
@@ -50,7 +50,7 @@ public class Agente {
 	 */
 	public int update(string SQL) {
 		// TODO - implement Agente.update
-		throw new UnsupportedOperationException();
+		
 	}
 
 	/**
@@ -59,7 +59,7 @@ public class Agente {
 	 */
 	public Vector<Vector<Object>> select(string SQL) {
 		// TODO - implement Agente.select
-		throw new UnsupportedOperationException();
+		
 	}
 
 }
