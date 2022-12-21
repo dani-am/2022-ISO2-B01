@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>2022-ISO2-B01</groupId>
+  <artifactId>PILGRIMFY</artifactId>
+  <packaging>pom</packaging>
+  <version>0.0.0</version>
+  
+  
+  <modules>
+  	<module>iteracion_1</module>
+    <module>iteracion_1</module>
+    <module>iteracion_2</module>
+    <module>iteracion_3</module>
+    <module>iteracion_4</module>
+    <module>iteracion_5</module>
+    <module>iteracion_6</module>
+    <module>iteracion_7</module>
+    <module>iteracion_8</module>
+    <module>iteracion_9</module>
+    <module>iteracion_10</module>
+    <module>iteracion_11</module>
+    <module>iteracion_12</module>
+  </modules>
+</project>
